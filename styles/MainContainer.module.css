@@ -1,0 +1,9 @@
+ul {
+  list-style-type: lower-latin;
+}
+
+.container {
+  min-height: 60vh;
+  padding: 20px;
+  text-align: center;
+}
